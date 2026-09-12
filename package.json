@@ -10,7 +10,7 @@
   "main": "intro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node intro.js"
+    "start": "node App.js"
   },
   "dependencies": {
     "dotenv": "^17.4.2",
